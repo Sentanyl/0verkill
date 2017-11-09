@@ -164,4 +164,3 @@ bfg		grx/bfg.avi
 bfgcell		grx/bfgcell.avi
 biomed		grx/biomed.avi
 jetpack_i	grx/jetpack_i.avi
-jetpack		grx/jetpack_i.avi
